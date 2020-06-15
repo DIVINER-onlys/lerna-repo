@@ -11,7 +11,7 @@
   "license": "ISC",
   "gitHead": "d836998576b504c40c55fcf88a58cfde695bfc35",
   "dependencies": {
-    "app1": "^0.0.4",
-    "app3": "^0.0.4"
+    "linhaoran_app1": "^0.0.4",
+    "linhaoran_app3": "^0.0.4"
   }
 }
