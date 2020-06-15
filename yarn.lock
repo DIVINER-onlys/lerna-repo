@@ -1067,6 +1067,11 @@ any-promise@^1.0.0:
   resolved "https://registry.yarnpkg.com/any-promise/-/any-promise-1.3.0.tgz#abc6afeedcea52e809cdc0376aed3ce39635d17f"
   integrity sha1-q8av7tzqUugJzcA3au0845Y10X8=
 
+app1@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/app1/-/app1-1.0.0.tgz#70ff10e6f284a96ba144a3b09e1ecd1334931a9d"
+  integrity sha1-cP8Q5vKEqWuhRKOwnh7NEzSTGp0=
+
 aproba@^1.0.3, aproba@^1.1.1:
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/aproba/-/aproba-1.2.0.tgz#6802e6264efd18c790a1b0d517f0f2627bf2c94a"
