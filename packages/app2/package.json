@@ -1,6 +1,6 @@
 {
   "name": "linhaoran_app2",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,6 @@
   "license": "ISC",
   "gitHead": "d836998576b504c40c55fcf88a58cfde695bfc35",
   "dependencies": {
-    "linhaoran_app1": "^0.0.7"
+    "linhaoran_app1": "^0.0.8"
   }
 }
