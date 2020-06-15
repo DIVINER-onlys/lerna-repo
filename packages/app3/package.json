@@ -9,5 +9,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "gitHead": "22e8476a389a9d09bdd2fd2ac724686abfb8b3a6"
+  "gitHead": "22e8476a389a9d09bdd2fd2ac724686abfb8b3a6",
+  "dependencies": {
+    "app1": "^0.0.3"
+  }
 }
