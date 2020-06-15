@@ -1,6 +1,6 @@
 {
   "name": "app1",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,6 +8,5 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "gitHead": "8a8652b2d6b8624d9151c754bb465409e56f4123"
+  "license": "ISC"
 }
