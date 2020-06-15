@@ -1,6 +1,6 @@
 {
   "name": "app2",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
   "license": "ISC",
   "gitHead": "22e8476a389a9d09bdd2fd2ac724686abfb8b3a6",
   "dependencies": {
-    "app1": "^0.0.3",
-    "app3": "^0.0.3"
+    "app1": "^0.0.4",
+    "app3": "^0.0.4"
   }
 }
