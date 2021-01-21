@@ -1,6 +1,6 @@
 {
   "name": "linhaoran_app3",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,5 +9,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "gitHead": "d836998576b504c40c55fcf88a58cfde695bfc35"
+  "gitHead": "090c51d6156a9887a40f950453bbccc8cdc0da6b"
 }
