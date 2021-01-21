@@ -9,5 +9,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "gitHead": "090c51d6156a9887a40f950453bbccc8cdc0da6b"
+  "gitHead": "090c51d6156a9887a40f950453bbccc8cdc0da6b",
+  "dependencies": {
+    "@efox/efoxcli": "^1.0.3"
+  }
 }
