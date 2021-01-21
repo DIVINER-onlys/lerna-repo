@@ -1,6 +1,6 @@
 {
   "name": "linhaoran_app1",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,6 @@
   "license": "ISC",
   "gitHead": "d836998576b504c40c55fcf88a58cfde695bfc35",
   "dependencies": {
-    "@efox/efoxcli": "^1.0.1"
+    "@efox/efoxcli": "^1.0.3"
   }
 }
