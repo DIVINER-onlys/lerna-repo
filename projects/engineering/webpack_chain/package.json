@@ -1,0 +1,16 @@
+{
+  "name": "webpack_chain",
+  "version": "1.0.0",
+  "description": "webpack chain learning",
+  "main": "index.js",
+  "author": "linhaoran",
+  "license": "MIT",
+  "scripts": {
+    "dev": "webpack"
+  },
+  "devDependencies": {
+    "webpack": "^5.37.0",
+    "webpack-chain": "^6.5.1",
+    "webpack-cli": "^4.7.0"
+  }
+}
